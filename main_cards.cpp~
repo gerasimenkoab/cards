@@ -1,0 +1,14 @@
+#include"shuffle_cards.h"
+
+int main()
+{
+  DeckOfCards mydeck;
+  
+  mydeck.shuffleCards();
+  mydeck.deal();
+  
+  
+  
+  
+  return 0;
+}
